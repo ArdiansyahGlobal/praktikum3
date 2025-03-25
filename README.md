@@ -27,3 +27,5 @@ Widget _buildMasterPlans() digunakan untuk menampilkan daftar rencana (plan) yan
 •	Jika daftar rencana kosong, ditampilkan ikon dan pesan “Anda belum memiliki rencana apapun.”
 •	Jika ada data, ditampilkan dalam bentuk ListView menggunakan ListTile.
 •	Saat salah satu rencana diklik, pengguna diarahkan ke halaman detail PlanScreen dengan membawa data rencana tersebut melalui Navigator.push().
+
+
