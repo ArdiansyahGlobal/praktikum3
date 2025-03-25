@@ -11,6 +11,7 @@ o	Di dalam PlanCreatorScreen, terdapat Column yang berisi:
 	Expanded yang berisi ListView untuk menampilkan daftar item.
   
   2.	Diagram Kanan (Setelah Navigasi)
+
 o	Setelah pengguna berpindah ke halaman berikutnya menggunakan Navigator Push, halaman PlanScreen ditampilkan.
 o	PlanScreen memiliki:
 	Scaffold sebagai struktur dasar halaman.
